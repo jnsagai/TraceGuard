@@ -1,0 +1,19 @@
+{
+  "proposal_id": "AI-PROP-001",
+  "generated_by": "external_ai_writer",
+  "requirements": [
+    {
+      "id": "SW-REQ-010",
+      "text": "The Brake Input SWC shall sample the brake pedal signal every 5 ms.",
+      "parent_links": [
+        {
+          "parent_id": "SYS-REQ-001",
+          "covered_atoms": ["SYS-REQ-001.A1"],
+          "derivation_type": "functional_decomposition",
+          "rationale": "Sampling every 5 ms supports detection within 10 ms."
+        }
+      ]
+    }
+  ]
+}
+

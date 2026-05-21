@@ -1,0 +1,22 @@
+links:
+  - source_id: SYS-REQ-001
+    target_id: SW-REQ-010
+    link_type: decomposes
+    covered_atom_ids:
+      - SYS-REQ-001.A1
+    rationale: Sampling every 5 ms supports detection within 10 ms.
+
+  - source_id: SYS-REQ-001
+    target_id: SW-REQ-011
+    link_type: decomposes
+    covered_atom_ids:
+      - SYS-REQ-001.A2
+    rationale: The software publishes the brake request to the required destination.
+
+  - source_id: SYS-REQ-001
+    target_id: SW-REQ-012
+    link_type: decomposes
+    covered_atom_ids:
+      - SYS-REQ-001.A3
+    rationale: E2E protection is used to support ASIL-B integrity for the brake request.
+

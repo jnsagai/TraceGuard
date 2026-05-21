@@ -1,0 +1,13 @@
+name: braking_example
+baseline: "2026-01-01"
+requirements:
+  - requirements/system.md
+  - requirements/software.md
+  - requirements/radar_on_chip_system_requirements.md
+  - requirements/radar_on_chip_software_requirements_derivation.md
+traces:
+  - traces/system_to_sw.yaml
+  - traces/radar_system_to_sw.yaml
+glossary: glossary.yaml
+reports_dir: reports
+build_dir: build

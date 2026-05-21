@@ -1,0 +1,2073 @@
+links:
+- source_id: ROC-SYS-001
+  target_id: ROC-SWR-001-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-001.A1
+  rationale: ROC-SWR-001-01 is listed under ROC-SYS-001 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-001
+  target_id: ROC-SWR-001-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-001.A1
+  rationale: ROC-SWR-001-02 is listed under ROC-SYS-001 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-001
+  target_id: ROC-SWR-001-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-001.A1
+  rationale: ROC-SWR-001-03 is listed under ROC-SYS-001 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-002
+  target_id: ROC-SWR-002-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-002.A1
+  - ROC-SYS-002.A2
+  rationale: ROC-SWR-002-01 is listed under ROC-SYS-002 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-002
+  target_id: ROC-SWR-002-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-002.A1
+  - ROC-SYS-002.A2
+  rationale: ROC-SWR-002-02 is listed under ROC-SYS-002 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-002
+  target_id: ROC-SWR-002-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-002.A1
+  - ROC-SYS-002.A2
+  rationale: ROC-SWR-002-03 is listed under ROC-SYS-002 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-002
+  target_id: ROC-SWR-002-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-002.A1
+  - ROC-SYS-002.A2
+  rationale: ROC-SWR-002-04 is listed under ROC-SYS-002 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-003
+  target_id: ROC-SWR-003-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-003.A1
+  rationale: ROC-SWR-003-01 is listed under ROC-SYS-003 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-003
+  target_id: ROC-SWR-003-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-003.A1
+  rationale: ROC-SWR-003-02 is listed under ROC-SYS-003 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-003
+  target_id: ROC-SWR-003-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-003.A1
+  rationale: ROC-SWR-003-03 is listed under ROC-SYS-003 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-003
+  target_id: ROC-SWR-003-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-003.A1
+  rationale: ROC-SWR-003-04 is listed under ROC-SYS-003 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-004
+  target_id: ROC-SWR-004-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-004.A1
+  rationale: ROC-SWR-004-01 is listed under ROC-SYS-004 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-004
+  target_id: ROC-SWR-004-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-004.A1
+  rationale: ROC-SWR-004-02 is listed under ROC-SYS-004 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-004
+  target_id: ROC-SWR-004-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-004.A1
+  rationale: ROC-SWR-004-03 is listed under ROC-SYS-004 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-004
+  target_id: ROC-SWR-004-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-004.A1
+  rationale: ROC-SWR-004-04 is listed under ROC-SYS-004 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-005
+  target_id: ROC-SWR-005-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-005.A1
+  rationale: ROC-SWR-005-01 is listed under ROC-SYS-005 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-005
+  target_id: ROC-SWR-005-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-005.A1
+  rationale: ROC-SWR-005-02 is listed under ROC-SYS-005 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-005
+  target_id: ROC-SWR-005-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-005.A1
+  rationale: ROC-SWR-005-03 is listed under ROC-SYS-005 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-005
+  target_id: ROC-SWR-005-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-005.A1
+  rationale: ROC-SWR-005-04 is listed under ROC-SYS-005 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-006
+  target_id: ROC-SWR-006-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-006.A1
+  rationale: ROC-SWR-006-01 is listed under ROC-SYS-006 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-006
+  target_id: ROC-SWR-006-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-006.A1
+  rationale: ROC-SWR-006-02 is listed under ROC-SYS-006 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-006
+  target_id: ROC-SWR-006-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-006.A1
+  rationale: ROC-SWR-006-03 is listed under ROC-SYS-006 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-006
+  target_id: ROC-SWR-006-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-006.A1
+  rationale: ROC-SWR-006-04 is listed under ROC-SYS-006 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-007
+  target_id: ROC-SWR-007-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-007.A1
+  rationale: ROC-SWR-007-01 is listed under ROC-SYS-007 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-007
+  target_id: ROC-SWR-007-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-007.A1
+  rationale: ROC-SWR-007-02 is listed under ROC-SYS-007 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-007
+  target_id: ROC-SWR-007-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-007.A1
+  rationale: ROC-SWR-007-03 is listed under ROC-SYS-007 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-007
+  target_id: ROC-SWR-007-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-007.A1
+  rationale: ROC-SWR-007-04 is listed under ROC-SYS-007 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-008
+  target_id: ROC-SWR-008-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-008.A1
+  rationale: ROC-SWR-008-01 is listed under ROC-SYS-008 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-008
+  target_id: ROC-SWR-008-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-008.A1
+  rationale: ROC-SWR-008-02 is listed under ROC-SYS-008 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-008
+  target_id: ROC-SWR-008-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-008.A1
+  rationale: ROC-SWR-008-03 is listed under ROC-SYS-008 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-008
+  target_id: ROC-SWR-008-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-008.A1
+  rationale: ROC-SWR-008-04 is listed under ROC-SYS-008 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-009
+  target_id: ROC-SWR-009-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-009.A1
+  rationale: ROC-SWR-009-01 is listed under ROC-SYS-009 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-009
+  target_id: ROC-SWR-009-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-009.A1
+  rationale: ROC-SWR-009-02 is listed under ROC-SYS-009 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-009
+  target_id: ROC-SWR-009-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-009.A1
+  rationale: ROC-SWR-009-03 is listed under ROC-SYS-009 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-009
+  target_id: ROC-SWR-009-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-009.A1
+  rationale: ROC-SWR-009-04 is listed under ROC-SYS-009 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-010
+  target_id: ROC-SWR-010-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-010.A1
+  rationale: ROC-SWR-010-01 is listed under ROC-SYS-010 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-010
+  target_id: ROC-SWR-010-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-010.A1
+  rationale: ROC-SWR-010-02 is listed under ROC-SYS-010 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-010
+  target_id: ROC-SWR-010-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-010.A1
+  rationale: ROC-SWR-010-03 is listed under ROC-SYS-010 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-010
+  target_id: ROC-SWR-010-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-010.A1
+  rationale: ROC-SWR-010-04 is listed under ROC-SYS-010 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-011
+  target_id: ROC-SWR-011-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-011.A1
+  rationale: ROC-SWR-011-01 is listed under ROC-SYS-011 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-011
+  target_id: ROC-SWR-011-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-011.A1
+  rationale: ROC-SWR-011-02 is listed under ROC-SYS-011 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-011
+  target_id: ROC-SWR-011-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-011.A1
+  rationale: ROC-SWR-011-03 is listed under ROC-SYS-011 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-011
+  target_id: ROC-SWR-011-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-011.A1
+  rationale: ROC-SWR-011-04 is listed under ROC-SYS-011 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-012
+  target_id: ROC-SWR-012-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-012.A1
+  rationale: ROC-SWR-012-01 is listed under ROC-SYS-012 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-012
+  target_id: ROC-SWR-012-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-012.A1
+  rationale: ROC-SWR-012-02 is listed under ROC-SYS-012 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-012
+  target_id: ROC-SWR-012-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-012.A1
+  rationale: ROC-SWR-012-03 is listed under ROC-SYS-012 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-012
+  target_id: ROC-SWR-012-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-012.A1
+  rationale: ROC-SWR-012-04 is listed under ROC-SYS-012 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-013
+  target_id: ROC-SWR-013-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-013.A1
+  rationale: ROC-SWR-013-01 is listed under ROC-SYS-013 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-013
+  target_id: ROC-SWR-013-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-013.A1
+  rationale: ROC-SWR-013-02 is listed under ROC-SYS-013 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-013
+  target_id: ROC-SWR-013-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-013.A1
+  rationale: ROC-SWR-013-03 is listed under ROC-SYS-013 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-013
+  target_id: ROC-SWR-013-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-013.A1
+  rationale: ROC-SWR-013-04 is listed under ROC-SYS-013 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-014
+  target_id: ROC-SWR-014-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-014.A1
+  rationale: ROC-SWR-014-01 is listed under ROC-SYS-014 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-014
+  target_id: ROC-SWR-014-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-014.A1
+  rationale: ROC-SWR-014-02 is listed under ROC-SYS-014 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-014
+  target_id: ROC-SWR-014-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-014.A1
+  rationale: ROC-SWR-014-03 is listed under ROC-SYS-014 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-014
+  target_id: ROC-SWR-014-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-014.A1
+  rationale: ROC-SWR-014-04 is listed under ROC-SYS-014 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-015
+  target_id: ROC-SWR-015-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-015.A1
+  - ROC-SYS-015.A2
+  rationale: ROC-SWR-015-01 is listed under ROC-SYS-015 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-015
+  target_id: ROC-SWR-015-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-015.A1
+  - ROC-SYS-015.A2
+  rationale: ROC-SWR-015-02 is listed under ROC-SYS-015 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-015
+  target_id: ROC-SWR-015-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-015.A1
+  - ROC-SYS-015.A2
+  rationale: ROC-SWR-015-03 is listed under ROC-SYS-015 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-015
+  target_id: ROC-SWR-015-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-015.A1
+  - ROC-SYS-015.A2
+  rationale: ROC-SWR-015-04 is listed under ROC-SYS-015 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-016
+  target_id: ROC-SWR-016-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-016.A1
+  rationale: ROC-SWR-016-01 is listed under ROC-SYS-016 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-016
+  target_id: ROC-SWR-016-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-016.A1
+  rationale: ROC-SWR-016-02 is listed under ROC-SYS-016 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-016
+  target_id: ROC-SWR-016-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-016.A1
+  rationale: ROC-SWR-016-03 is listed under ROC-SYS-016 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-016
+  target_id: ROC-SWR-016-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-016.A1
+  rationale: ROC-SWR-016-04 is listed under ROC-SYS-016 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-017
+  target_id: ROC-SWR-017-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-017.A1
+  rationale: ROC-SWR-017-01 is listed under ROC-SYS-017 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-017
+  target_id: ROC-SWR-017-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-017.A1
+  rationale: ROC-SWR-017-02 is listed under ROC-SYS-017 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-017
+  target_id: ROC-SWR-017-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-017.A1
+  rationale: ROC-SWR-017-03 is listed under ROC-SYS-017 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-017
+  target_id: ROC-SWR-017-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-017.A1
+  rationale: ROC-SWR-017-04 is listed under ROC-SYS-017 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-018
+  target_id: ROC-SWR-018-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-018.A1
+  rationale: ROC-SWR-018-01 is listed under ROC-SYS-018 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-018
+  target_id: ROC-SWR-018-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-018.A1
+  rationale: ROC-SWR-018-02 is listed under ROC-SYS-018 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-018
+  target_id: ROC-SWR-018-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-018.A1
+  rationale: ROC-SWR-018-03 is listed under ROC-SYS-018 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-018
+  target_id: ROC-SWR-018-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-018.A1
+  rationale: ROC-SWR-018-04 is listed under ROC-SYS-018 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-019
+  target_id: ROC-SWR-019-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-019.A1
+  rationale: ROC-SWR-019-01 is listed under ROC-SYS-019 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-019
+  target_id: ROC-SWR-019-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-019.A1
+  rationale: ROC-SWR-019-02 is listed under ROC-SYS-019 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-019
+  target_id: ROC-SWR-019-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-019.A1
+  rationale: ROC-SWR-019-03 is listed under ROC-SYS-019 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-019
+  target_id: ROC-SWR-019-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-019.A1
+  rationale: ROC-SWR-019-04 is listed under ROC-SYS-019 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-020
+  target_id: ROC-SWR-020-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-020.A1
+  rationale: ROC-SWR-020-01 is listed under ROC-SYS-020 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-020
+  target_id: ROC-SWR-020-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-020.A1
+  rationale: ROC-SWR-020-02 is listed under ROC-SYS-020 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-020
+  target_id: ROC-SWR-020-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-020.A1
+  rationale: ROC-SWR-020-03 is listed under ROC-SYS-020 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-020
+  target_id: ROC-SWR-020-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-020.A1
+  rationale: ROC-SWR-020-04 is listed under ROC-SYS-020 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-021
+  target_id: ROC-SWR-021-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-021.A1
+  rationale: ROC-SWR-021-01 is listed under ROC-SYS-021 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-021
+  target_id: ROC-SWR-021-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-021.A1
+  rationale: ROC-SWR-021-02 is listed under ROC-SYS-021 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-021
+  target_id: ROC-SWR-021-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-021.A1
+  rationale: ROC-SWR-021-03 is listed under ROC-SYS-021 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-021
+  target_id: ROC-SWR-021-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-021.A1
+  rationale: ROC-SWR-021-04 is listed under ROC-SYS-021 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-022
+  target_id: ROC-SWR-022-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-022.A1
+  - ROC-SYS-022.A2
+  rationale: ROC-SWR-022-01 is listed under ROC-SYS-022 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-022
+  target_id: ROC-SWR-022-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-022.A1
+  - ROC-SYS-022.A2
+  rationale: ROC-SWR-022-02 is listed under ROC-SYS-022 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-022
+  target_id: ROC-SWR-022-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-022.A1
+  - ROC-SYS-022.A2
+  rationale: ROC-SWR-022-03 is listed under ROC-SYS-022 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-022
+  target_id: ROC-SWR-022-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-022.A1
+  - ROC-SYS-022.A2
+  rationale: ROC-SWR-022-04 is listed under ROC-SYS-022 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-023
+  target_id: ROC-SWR-023-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-023.A1
+  - ROC-SYS-023.A2
+  rationale: ROC-SWR-023-01 is listed under ROC-SYS-023 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-023
+  target_id: ROC-SWR-023-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-023.A1
+  - ROC-SYS-023.A2
+  rationale: ROC-SWR-023-02 is listed under ROC-SYS-023 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-023
+  target_id: ROC-SWR-023-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-023.A1
+  - ROC-SYS-023.A2
+  rationale: ROC-SWR-023-03 is listed under ROC-SYS-023 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-023
+  target_id: ROC-SWR-023-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-023.A1
+  - ROC-SYS-023.A2
+  rationale: ROC-SWR-023-04 is listed under ROC-SYS-023 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-024
+  target_id: ROC-SWR-024-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-024.A1
+  rationale: ROC-SWR-024-01 is listed under ROC-SYS-024 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-024
+  target_id: ROC-SWR-024-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-024.A1
+  rationale: ROC-SWR-024-02 is listed under ROC-SYS-024 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-024
+  target_id: ROC-SWR-024-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-024.A1
+  rationale: ROC-SWR-024-03 is listed under ROC-SYS-024 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-024
+  target_id: ROC-SWR-024-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-024.A1
+  rationale: ROC-SWR-024-04 is listed under ROC-SYS-024 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-025
+  target_id: ROC-SWR-025-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-025.A1
+  rationale: ROC-SWR-025-01 is listed under ROC-SYS-025 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-025
+  target_id: ROC-SWR-025-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-025.A1
+  rationale: ROC-SWR-025-02 is listed under ROC-SYS-025 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-025
+  target_id: ROC-SWR-025-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-025.A1
+  rationale: ROC-SWR-025-03 is listed under ROC-SYS-025 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-025
+  target_id: ROC-SWR-025-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-025.A1
+  rationale: ROC-SWR-025-04 is listed under ROC-SYS-025 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-026
+  target_id: ROC-SWR-026-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-026.A1
+  rationale: ROC-SWR-026-01 is listed under ROC-SYS-026 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-026
+  target_id: ROC-SWR-026-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-026.A1
+  rationale: ROC-SWR-026-02 is listed under ROC-SYS-026 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-026
+  target_id: ROC-SWR-026-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-026.A1
+  rationale: ROC-SWR-026-03 is listed under ROC-SYS-026 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-026
+  target_id: ROC-SWR-026-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-026.A1
+  rationale: ROC-SWR-026-04 is listed under ROC-SYS-026 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-027
+  target_id: ROC-SWR-027-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-027.A1
+  - ROC-SYS-027.A2
+  rationale: ROC-SWR-027-01 is listed under ROC-SYS-027 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-027
+  target_id: ROC-SWR-027-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-027.A1
+  - ROC-SYS-027.A2
+  rationale: ROC-SWR-027-02 is listed under ROC-SYS-027 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-027
+  target_id: ROC-SWR-027-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-027.A1
+  - ROC-SYS-027.A2
+  rationale: ROC-SWR-027-03 is listed under ROC-SYS-027 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-027
+  target_id: ROC-SWR-027-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-027.A1
+  - ROC-SYS-027.A2
+  rationale: ROC-SWR-027-04 is listed under ROC-SYS-027 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-028
+  target_id: ROC-SWR-028-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-028.A1
+  - ROC-SYS-028.A2
+  rationale: ROC-SWR-028-01 is listed under ROC-SYS-028 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-028
+  target_id: ROC-SWR-028-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-028.A1
+  - ROC-SYS-028.A2
+  rationale: ROC-SWR-028-02 is listed under ROC-SYS-028 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-028
+  target_id: ROC-SWR-028-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-028.A1
+  - ROC-SYS-028.A2
+  rationale: ROC-SWR-028-03 is listed under ROC-SYS-028 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-028
+  target_id: ROC-SWR-028-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-028.A1
+  - ROC-SYS-028.A2
+  rationale: ROC-SWR-028-04 is listed under ROC-SYS-028 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-029
+  target_id: ROC-SWR-029-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-029.A1
+  rationale: ROC-SWR-029-01 is listed under ROC-SYS-029 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-029
+  target_id: ROC-SWR-029-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-029.A1
+  rationale: ROC-SWR-029-02 is listed under ROC-SYS-029 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-029
+  target_id: ROC-SWR-029-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-029.A1
+  rationale: ROC-SWR-029-03 is listed under ROC-SYS-029 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-029
+  target_id: ROC-SWR-029-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-029.A1
+  rationale: ROC-SWR-029-04 is listed under ROC-SYS-029 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-030
+  target_id: ROC-SWR-030-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-030.A1
+  - ROC-SYS-030.A2
+  rationale: ROC-SWR-030-01 is listed under ROC-SYS-030 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-030
+  target_id: ROC-SWR-030-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-030.A1
+  - ROC-SYS-030.A2
+  rationale: ROC-SWR-030-02 is listed under ROC-SYS-030 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-030
+  target_id: ROC-SWR-030-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-030.A1
+  - ROC-SYS-030.A2
+  rationale: ROC-SWR-030-03 is listed under ROC-SYS-030 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-030
+  target_id: ROC-SWR-030-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-030.A1
+  - ROC-SYS-030.A2
+  rationale: ROC-SWR-030-04 is listed under ROC-SYS-030 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-031
+  target_id: ROC-SWR-031-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-031.A1
+  rationale: ROC-SWR-031-01 is listed under ROC-SYS-031 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-031
+  target_id: ROC-SWR-031-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-031.A1
+  rationale: ROC-SWR-031-02 is listed under ROC-SYS-031 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-031
+  target_id: ROC-SWR-031-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-031.A1
+  rationale: ROC-SWR-031-03 is listed under ROC-SYS-031 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-031
+  target_id: ROC-SWR-031-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-031.A1
+  rationale: ROC-SWR-031-04 is listed under ROC-SYS-031 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-032
+  target_id: ROC-SWR-032-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-032.A1
+  - ROC-SYS-032.A2
+  rationale: ROC-SWR-032-01 is listed under ROC-SYS-032 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-032
+  target_id: ROC-SWR-032-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-032.A1
+  - ROC-SYS-032.A2
+  rationale: ROC-SWR-032-02 is listed under ROC-SYS-032 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-032
+  target_id: ROC-SWR-032-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-032.A1
+  - ROC-SYS-032.A2
+  rationale: ROC-SWR-032-03 is listed under ROC-SYS-032 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-032
+  target_id: ROC-SWR-032-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-032.A1
+  - ROC-SYS-032.A2
+  rationale: ROC-SWR-032-04 is listed under ROC-SYS-032 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-033
+  target_id: ROC-SWR-033-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-033.A1
+  rationale: ROC-SWR-033-01 is listed under ROC-SYS-033 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-033
+  target_id: ROC-SWR-033-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-033.A1
+  rationale: ROC-SWR-033-02 is listed under ROC-SYS-033 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-033
+  target_id: ROC-SWR-033-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-033.A1
+  rationale: ROC-SWR-033-03 is listed under ROC-SYS-033 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-033
+  target_id: ROC-SWR-033-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-033.A1
+  rationale: ROC-SWR-033-04 is listed under ROC-SYS-033 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-034
+  target_id: ROC-SWR-034-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-034.A1
+  rationale: ROC-SWR-034-01 is listed under ROC-SYS-034 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-034
+  target_id: ROC-SWR-034-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-034.A1
+  rationale: ROC-SWR-034-02 is listed under ROC-SYS-034 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-034
+  target_id: ROC-SWR-034-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-034.A1
+  rationale: ROC-SWR-034-03 is listed under ROC-SYS-034 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-034
+  target_id: ROC-SWR-034-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-034.A1
+  rationale: ROC-SWR-034-04 is listed under ROC-SYS-034 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-035
+  target_id: ROC-SWR-035-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-035.A1
+  - ROC-SYS-035.A2
+  rationale: ROC-SWR-035-01 is listed under ROC-SYS-035 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-035
+  target_id: ROC-SWR-035-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-035.A1
+  - ROC-SYS-035.A2
+  rationale: ROC-SWR-035-02 is listed under ROC-SYS-035 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-035
+  target_id: ROC-SWR-035-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-035.A1
+  - ROC-SYS-035.A2
+  rationale: ROC-SWR-035-03 is listed under ROC-SYS-035 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-035
+  target_id: ROC-SWR-035-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-035.A1
+  - ROC-SYS-035.A2
+  rationale: ROC-SWR-035-04 is listed under ROC-SYS-035 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-036
+  target_id: ROC-SWR-036-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-036.A1
+  rationale: ROC-SWR-036-01 is listed under ROC-SYS-036 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-036
+  target_id: ROC-SWR-036-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-036.A1
+  rationale: ROC-SWR-036-02 is listed under ROC-SYS-036 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-036
+  target_id: ROC-SWR-036-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-036.A1
+  rationale: ROC-SWR-036-03 is listed under ROC-SYS-036 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-036
+  target_id: ROC-SWR-036-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-036.A1
+  rationale: ROC-SWR-036-04 is listed under ROC-SYS-036 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-037
+  target_id: ROC-SWR-037-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-037.A1
+  - ROC-SYS-037.A2
+  rationale: ROC-SWR-037-01 is listed under ROC-SYS-037 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-037
+  target_id: ROC-SWR-037-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-037.A1
+  - ROC-SYS-037.A2
+  rationale: ROC-SWR-037-02 is listed under ROC-SYS-037 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-037
+  target_id: ROC-SWR-037-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-037.A1
+  - ROC-SYS-037.A2
+  rationale: ROC-SWR-037-03 is listed under ROC-SYS-037 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-037
+  target_id: ROC-SWR-037-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-037.A1
+  - ROC-SYS-037.A2
+  rationale: ROC-SWR-037-04 is listed under ROC-SYS-037 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-038
+  target_id: ROC-SWR-038-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-038.A1
+  rationale: ROC-SWR-038-01 is listed under ROC-SYS-038 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-038
+  target_id: ROC-SWR-038-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-038.A1
+  rationale: ROC-SWR-038-02 is listed under ROC-SYS-038 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-038
+  target_id: ROC-SWR-038-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-038.A1
+  rationale: ROC-SWR-038-03 is listed under ROC-SYS-038 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-038
+  target_id: ROC-SWR-038-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-038.A1
+  rationale: ROC-SWR-038-04 is listed under ROC-SYS-038 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-039
+  target_id: ROC-SWR-039-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-039.A1
+  rationale: ROC-SWR-039-01 is listed under ROC-SYS-039 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-039
+  target_id: ROC-SWR-039-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-039.A1
+  rationale: ROC-SWR-039-02 is listed under ROC-SYS-039 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-039
+  target_id: ROC-SWR-039-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-039.A1
+  rationale: ROC-SWR-039-03 is listed under ROC-SYS-039 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-039
+  target_id: ROC-SWR-039-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-039.A1
+  rationale: ROC-SWR-039-04 is listed under ROC-SYS-039 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-040
+  target_id: ROC-SWR-040-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-040.A1
+  rationale: ROC-SWR-040-01 is listed under ROC-SYS-040 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-040
+  target_id: ROC-SWR-040-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-040.A1
+  rationale: ROC-SWR-040-02 is listed under ROC-SYS-040 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-040
+  target_id: ROC-SWR-040-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-040.A1
+  rationale: ROC-SWR-040-03 is listed under ROC-SYS-040 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-040
+  target_id: ROC-SWR-040-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-040.A1
+  rationale: ROC-SWR-040-04 is listed under ROC-SYS-040 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-041
+  target_id: ROC-SWR-041-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-041.A1
+  - ROC-SYS-041.A2
+  rationale: ROC-SWR-041-01 is listed under ROC-SYS-041 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-041
+  target_id: ROC-SWR-041-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-041.A1
+  - ROC-SYS-041.A2
+  rationale: ROC-SWR-041-02 is listed under ROC-SYS-041 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-041
+  target_id: ROC-SWR-041-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-041.A1
+  - ROC-SYS-041.A2
+  rationale: ROC-SWR-041-03 is listed under ROC-SYS-041 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-041
+  target_id: ROC-SWR-041-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-041.A1
+  - ROC-SYS-041.A2
+  rationale: ROC-SWR-041-04 is listed under ROC-SYS-041 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-042
+  target_id: ROC-SWR-042-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-042.A1
+  rationale: ROC-SWR-042-01 is listed under ROC-SYS-042 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-042
+  target_id: ROC-SWR-042-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-042.A1
+  rationale: ROC-SWR-042-02 is listed under ROC-SYS-042 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-042
+  target_id: ROC-SWR-042-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-042.A1
+  rationale: ROC-SWR-042-03 is listed under ROC-SYS-042 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-042
+  target_id: ROC-SWR-042-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-042.A1
+  rationale: ROC-SWR-042-04 is listed under ROC-SYS-042 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-043
+  target_id: ROC-SWR-043-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-043.A1
+  - ROC-SYS-043.A2
+  rationale: ROC-SWR-043-01 is listed under ROC-SYS-043 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-043
+  target_id: ROC-SWR-043-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-043.A1
+  - ROC-SYS-043.A2
+  rationale: ROC-SWR-043-02 is listed under ROC-SYS-043 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-043
+  target_id: ROC-SWR-043-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-043.A1
+  - ROC-SYS-043.A2
+  rationale: ROC-SWR-043-03 is listed under ROC-SYS-043 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-043
+  target_id: ROC-SWR-043-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-043.A1
+  - ROC-SYS-043.A2
+  rationale: ROC-SWR-043-04 is listed under ROC-SYS-043 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-044
+  target_id: ROC-SWR-044-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-044.A1
+  rationale: ROC-SWR-044-01 is listed under ROC-SYS-044 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-044
+  target_id: ROC-SWR-044-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-044.A1
+  rationale: ROC-SWR-044-02 is listed under ROC-SYS-044 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-044
+  target_id: ROC-SWR-044-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-044.A1
+  rationale: ROC-SWR-044-03 is listed under ROC-SYS-044 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-044
+  target_id: ROC-SWR-044-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-044.A1
+  rationale: ROC-SWR-044-04 is listed under ROC-SYS-044 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-045
+  target_id: ROC-SWR-045-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-045.A1
+  rationale: ROC-SWR-045-01 is listed under ROC-SYS-045 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-045
+  target_id: ROC-SWR-045-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-045.A1
+  rationale: ROC-SWR-045-02 is listed under ROC-SYS-045 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-045
+  target_id: ROC-SWR-045-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-045.A1
+  rationale: ROC-SWR-045-03 is listed under ROC-SYS-045 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-045
+  target_id: ROC-SWR-045-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-045.A1
+  rationale: ROC-SWR-045-04 is listed under ROC-SYS-045 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-046
+  target_id: ROC-SWR-046-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-046.A1
+  rationale: ROC-SWR-046-01 is listed under ROC-SYS-046 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-046
+  target_id: ROC-SWR-046-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-046.A1
+  rationale: ROC-SWR-046-02 is listed under ROC-SYS-046 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-046
+  target_id: ROC-SWR-046-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-046.A1
+  rationale: ROC-SWR-046-03 is listed under ROC-SYS-046 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-046
+  target_id: ROC-SWR-046-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-046.A1
+  rationale: ROC-SWR-046-04 is listed under ROC-SYS-046 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-047
+  target_id: ROC-SWR-047-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-047.A1
+  rationale: ROC-SWR-047-01 is listed under ROC-SYS-047 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-047
+  target_id: ROC-SWR-047-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-047.A1
+  rationale: ROC-SWR-047-02 is listed under ROC-SYS-047 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-047
+  target_id: ROC-SWR-047-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-047.A1
+  rationale: ROC-SWR-047-03 is listed under ROC-SYS-047 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-047
+  target_id: ROC-SWR-047-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-047.A1
+  rationale: ROC-SWR-047-04 is listed under ROC-SYS-047 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-048
+  target_id: ROC-SWR-048-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-048.A1
+  - ROC-SYS-048.A2
+  rationale: ROC-SWR-048-01 is listed under ROC-SYS-048 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-048
+  target_id: ROC-SWR-048-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-048.A1
+  - ROC-SYS-048.A2
+  rationale: ROC-SWR-048-02 is listed under ROC-SYS-048 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-048
+  target_id: ROC-SWR-048-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-048.A1
+  - ROC-SYS-048.A2
+  rationale: ROC-SWR-048-03 is listed under ROC-SYS-048 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-048
+  target_id: ROC-SWR-048-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-048.A1
+  - ROC-SYS-048.A2
+  rationale: ROC-SWR-048-04 is listed under ROC-SYS-048 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-049
+  target_id: ROC-SWR-049-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-049.A1
+  - ROC-SYS-049.A2
+  rationale: ROC-SWR-049-01 is listed under ROC-SYS-049 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-049
+  target_id: ROC-SWR-049-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-049.A1
+  - ROC-SYS-049.A2
+  rationale: ROC-SWR-049-02 is listed under ROC-SYS-049 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-049
+  target_id: ROC-SWR-049-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-049.A1
+  - ROC-SYS-049.A2
+  rationale: ROC-SWR-049-03 is listed under ROC-SYS-049 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-049
+  target_id: ROC-SWR-049-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-049.A1
+  - ROC-SYS-049.A2
+  rationale: ROC-SWR-049-04 is listed under ROC-SYS-049 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-049
+  target_id: ROC-SWR-049-05
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-049.A1
+  - ROC-SYS-049.A2
+  rationale: ROC-SWR-049-05 is listed under ROC-SYS-049 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-050
+  target_id: ROC-SWR-050-01
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-050.A1
+  - ROC-SYS-050.A2
+  rationale: ROC-SWR-050-01 is listed under ROC-SYS-050 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-050
+  target_id: ROC-SWR-050-02
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-050.A1
+  - ROC-SYS-050.A2
+  rationale: ROC-SWR-050-02 is listed under ROC-SYS-050 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-050
+  target_id: ROC-SWR-050-03
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-050.A1
+  - ROC-SYS-050.A2
+  rationale: ROC-SWR-050-03 is listed under ROC-SYS-050 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-050
+  target_id: ROC-SWR-050-04
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-050.A1
+  - ROC-SYS-050.A2
+  rationale: ROC-SWR-050-04 is listed under ROC-SYS-050 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed
+- source_id: ROC-SYS-050
+  target_id: ROC-SWR-050-05
+  link_type: decomposes
+  covered_atom_ids:
+  - ROC-SYS-050.A1
+  - ROC-SYS-050.A2
+  rationale: ROC-SWR-050-05 is listed under ROC-SYS-050 in the derivation Markdown
+    table.
+  author: null
+  origin: manual
+  review_status: unreviewed

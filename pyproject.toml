@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "traceguard"
+version = "0.1.0"
+description = "Deterministic requirements derivation coverage checker"
+readme = "README.md"
+requires-python = ">=3.12"
+license = {text = "Apache-2.0"}
+authors = [{name = "TraceGuard Contributors"}]
+dependencies = [
+  "jinja2>=3.1",
+  "networkx>=3.3",
+  "pandas>=2.2",
+  "pydantic>=2.7",
+  "pyyaml>=6.0",
+  "rich>=13.7",
+  "typer>=0.12",
+  "z3-solver>=4.13",
+]
+
+[project.optional-dependencies]
+dev = [
+  "hypothesis>=6.100",
+  "mypy>=1.10",
+  "pytest>=8.2",
+  "ruff>=0.5",
+  "types-networkx>=3.5",
+  "types-PyYAML>=6.0",
+]
+
+[project.scripts]
+traceguard = "traceguard.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+packages = ["traceguard"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["src"]

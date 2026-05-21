@@ -1,0 +1,1529 @@
+{
+  "baseline": "2026-01-01",
+  "findings": [
+    {
+      "code": "R-VERIF-001",
+      "file": null,
+      "line": null,
+      "message": "SW-REQ-013 contains unverifiable wording: as soon as possible.",
+      "severity": "medium"
+    },
+    {
+      "code": "R-VERIF-001",
+      "file": null,
+      "line": null,
+      "message": "ROC-SYS-010 contains unverifiable wording: sufficient.",
+      "severity": "medium"
+    },
+    {
+      "code": "R-VERIF-001",
+      "file": null,
+      "line": null,
+      "message": "ROC-SYS-018 contains unverifiable wording: sufficient.",
+      "severity": "medium"
+    },
+    {
+      "code": "R-VERIF-001",
+      "file": null,
+      "line": null,
+      "message": "ROC-SWR-004-02 contains unverifiable wording: optimized.",
+      "severity": "medium"
+    }
+  ],
+  "project": "braking_example",
+  "results": [
+    {
+      "child_atom_ids": [
+        "ROC-SWR-001-01.A1",
+        "ROC-SWR-001-01.A2",
+        "ROC-SWR-001-02.A1",
+        "ROC-SWR-001-03.A1",
+        "ROC-SWR-001-03.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-001-01",
+        "ROC-SWR-001-02",
+        "ROC-SWR-001-03"
+      ],
+      "explanation": "ROC-SYS-001.A1 is covered by trace link(s) to ROC-SWR-001-01, ROC-SWR-001-02, ROC-SWR-001-03.",
+      "parent_atom_id": "ROC-SYS-001.A1",
+      "parent_requirement_id": "ROC-SYS-001",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-002-01.A1",
+        "ROC-SWR-002-01.A2",
+        "ROC-SWR-002-02.A1",
+        "ROC-SWR-002-02.A2",
+        "ROC-SWR-002-03.A1",
+        "ROC-SWR-002-04.A1",
+        "ROC-SWR-002-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-002-01",
+        "ROC-SWR-002-02",
+        "ROC-SWR-002-03",
+        "ROC-SWR-002-04"
+      ],
+      "explanation": "ROC-SYS-002.A1 is covered by trace link(s) to ROC-SWR-002-01, ROC-SWR-002-02, ROC-SWR-002-03, ROC-SWR-002-04.",
+      "parent_atom_id": "ROC-SYS-002.A1",
+      "parent_requirement_id": "ROC-SYS-002",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-002-01.A1",
+        "ROC-SWR-002-01.A2",
+        "ROC-SWR-002-02.A1",
+        "ROC-SWR-002-02.A2",
+        "ROC-SWR-002-03.A1",
+        "ROC-SWR-002-04.A1",
+        "ROC-SWR-002-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-002-01",
+        "ROC-SWR-002-02",
+        "ROC-SWR-002-03",
+        "ROC-SWR-002-04"
+      ],
+      "explanation": "ROC-SYS-002.A2 is covered by trace link(s) to ROC-SWR-002-01, ROC-SWR-002-02, ROC-SWR-002-03, ROC-SWR-002-04.",
+      "parent_atom_id": "ROC-SYS-002.A2",
+      "parent_requirement_id": "ROC-SYS-002",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-003-01.A1",
+        "ROC-SWR-003-01.A2",
+        "ROC-SWR-003-02.A1",
+        "ROC-SWR-003-02.A2",
+        "ROC-SWR-003-02.A3",
+        "ROC-SWR-003-03.A1",
+        "ROC-SWR-003-03.A2",
+        "ROC-SWR-003-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-003-01",
+        "ROC-SWR-003-02",
+        "ROC-SWR-003-03",
+        "ROC-SWR-003-04"
+      ],
+      "explanation": "ROC-SYS-003.A1 is covered by trace link(s) to ROC-SWR-003-01, ROC-SWR-003-02, ROC-SWR-003-03, ROC-SWR-003-04.",
+      "parent_atom_id": "ROC-SYS-003.A1",
+      "parent_requirement_id": "ROC-SYS-003",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-004-01.A1",
+        "ROC-SWR-004-01.A2",
+        "ROC-SWR-004-01.A3",
+        "ROC-SWR-004-02.A1",
+        "ROC-SWR-004-03.A1",
+        "ROC-SWR-004-03.A2",
+        "ROC-SWR-004-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-004-01",
+        "ROC-SWR-004-02",
+        "ROC-SWR-004-03",
+        "ROC-SWR-004-04"
+      ],
+      "explanation": "ROC-SYS-004.A1 is covered by trace link(s) to ROC-SWR-004-01, ROC-SWR-004-02, ROC-SWR-004-03, ROC-SWR-004-04.",
+      "parent_atom_id": "ROC-SYS-004.A1",
+      "parent_requirement_id": "ROC-SYS-004",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-005-01.A1",
+        "ROC-SWR-005-02.A1",
+        "ROC-SWR-005-03.A1",
+        "ROC-SWR-005-03.A2",
+        "ROC-SWR-005-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-005-01",
+        "ROC-SWR-005-02",
+        "ROC-SWR-005-03",
+        "ROC-SWR-005-04"
+      ],
+      "explanation": "ROC-SYS-005.A1 is covered by trace link(s) to ROC-SWR-005-01, ROC-SWR-005-02, ROC-SWR-005-03, ROC-SWR-005-04.",
+      "parent_atom_id": "ROC-SYS-005.A1",
+      "parent_requirement_id": "ROC-SYS-005",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-006-02.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-006-01",
+        "ROC-SWR-006-02",
+        "ROC-SWR-006-03",
+        "ROC-SWR-006-04"
+      ],
+      "explanation": "Child limit equals parent limit.",
+      "parent_atom_id": "ROC-SYS-006.A1",
+      "parent_requirement_id": "ROC-SYS-006",
+      "recommended_action": null,
+      "rule_id": "R-CONSTRAINT-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-007-01.A1",
+        "ROC-SWR-007-02.A1",
+        "ROC-SWR-007-02.A2",
+        "ROC-SWR-007-03.A1",
+        "ROC-SWR-007-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-007-01",
+        "ROC-SWR-007-02",
+        "ROC-SWR-007-03",
+        "ROC-SWR-007-04"
+      ],
+      "explanation": "ROC-SYS-007.A1 is covered by trace link(s) to ROC-SWR-007-01, ROC-SWR-007-02, ROC-SWR-007-03, ROC-SWR-007-04.",
+      "parent_atom_id": "ROC-SYS-007.A1",
+      "parent_requirement_id": "ROC-SYS-007",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-008-01.A1",
+        "ROC-SWR-008-02.A1",
+        "ROC-SWR-008-02.A2",
+        "ROC-SWR-008-03.A1",
+        "ROC-SWR-008-03.A2",
+        "ROC-SWR-008-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-008-01",
+        "ROC-SWR-008-02",
+        "ROC-SWR-008-03",
+        "ROC-SWR-008-04"
+      ],
+      "explanation": "ROC-SYS-008.A1 is covered by trace link(s) to ROC-SWR-008-01, ROC-SWR-008-02, ROC-SWR-008-03, ROC-SWR-008-04.",
+      "parent_atom_id": "ROC-SYS-008.A1",
+      "parent_requirement_id": "ROC-SYS-008",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-009-01.A1",
+        "ROC-SWR-009-02.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-009-01",
+        "ROC-SWR-009-02",
+        "ROC-SWR-009-03",
+        "ROC-SWR-009-04"
+      ],
+      "explanation": "ROC-SYS-009.A1 is covered by trace link(s) to ROC-SWR-009-01, ROC-SWR-009-02, ROC-SWR-009-03, ROC-SWR-009-04.",
+      "parent_atom_id": "ROC-SYS-009.A1",
+      "parent_requirement_id": "ROC-SYS-009",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-010-01.A1",
+        "ROC-SWR-010-02.A1",
+        "ROC-SWR-010-02.A2",
+        "ROC-SWR-010-03.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-010-01",
+        "ROC-SWR-010-02",
+        "ROC-SWR-010-03",
+        "ROC-SWR-010-04"
+      ],
+      "explanation": "ROC-SYS-010.A1 is covered by trace link(s) to ROC-SWR-010-01, ROC-SWR-010-02, ROC-SWR-010-03, ROC-SWR-010-04.",
+      "parent_atom_id": "ROC-SYS-010.A1",
+      "parent_requirement_id": "ROC-SYS-010",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-011-01.A1",
+        "ROC-SWR-011-02.A1",
+        "ROC-SWR-011-02.A2",
+        "ROC-SWR-011-03.A1",
+        "ROC-SWR-011-03.A2",
+        "ROC-SWR-011-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-011-01",
+        "ROC-SWR-011-02",
+        "ROC-SWR-011-03",
+        "ROC-SWR-011-04"
+      ],
+      "explanation": "ROC-SYS-011.A1 is covered by trace link(s) to ROC-SWR-011-01, ROC-SWR-011-02, ROC-SWR-011-03, ROC-SWR-011-04.",
+      "parent_atom_id": "ROC-SYS-011.A1",
+      "parent_requirement_id": "ROC-SYS-011",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-012-01.A2",
+        "ROC-SWR-012-02.A1",
+        "ROC-SWR-012-02.A2",
+        "ROC-SWR-012-04.A1",
+        "ROC-SWR-012-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-012-01",
+        "ROC-SWR-012-02",
+        "ROC-SWR-012-03",
+        "ROC-SWR-012-04"
+      ],
+      "explanation": "ROC-SYS-012.A1 is covered by trace link(s) to ROC-SWR-012-01, ROC-SWR-012-02, ROC-SWR-012-03, ROC-SWR-012-04.",
+      "parent_atom_id": "ROC-SYS-012.A1",
+      "parent_requirement_id": "ROC-SYS-012",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-013-01.A1",
+        "ROC-SWR-013-02.A1",
+        "ROC-SWR-013-02.A2",
+        "ROC-SWR-013-03.A1",
+        "ROC-SWR-013-03.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-013-01",
+        "ROC-SWR-013-02",
+        "ROC-SWR-013-03",
+        "ROC-SWR-013-04"
+      ],
+      "explanation": "ROC-SYS-013.A1 is covered by trace link(s) to ROC-SWR-013-01, ROC-SWR-013-02, ROC-SWR-013-03, ROC-SWR-013-04.",
+      "parent_atom_id": "ROC-SYS-013.A1",
+      "parent_requirement_id": "ROC-SYS-013",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-014-01.A1",
+        "ROC-SWR-014-02.A1",
+        "ROC-SWR-014-03.A2",
+        "ROC-SWR-014-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-014-01",
+        "ROC-SWR-014-02",
+        "ROC-SWR-014-03",
+        "ROC-SWR-014-04"
+      ],
+      "explanation": "ROC-SYS-014.A1 is covered by trace link(s) to ROC-SWR-014-01, ROC-SWR-014-02, ROC-SWR-014-03, ROC-SWR-014-04.",
+      "parent_atom_id": "ROC-SYS-014.A1",
+      "parent_requirement_id": "ROC-SYS-014",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-015-01.A1",
+        "ROC-SWR-015-02.A1",
+        "ROC-SWR-015-03.A1",
+        "ROC-SWR-015-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-015-01",
+        "ROC-SWR-015-02",
+        "ROC-SWR-015-03",
+        "ROC-SWR-015-04"
+      ],
+      "explanation": "ROC-SYS-015.A1 is covered by trace link(s) to ROC-SWR-015-01, ROC-SWR-015-02, ROC-SWR-015-03, ROC-SWR-015-04.",
+      "parent_atom_id": "ROC-SYS-015.A1",
+      "parent_requirement_id": "ROC-SYS-015",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-015-02.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-015-01",
+        "ROC-SWR-015-02",
+        "ROC-SWR-015-03",
+        "ROC-SWR-015-04"
+      ],
+      "explanation": "ROC-SYS-015.A2 is covered by trace link(s) to ROC-SWR-015-01, ROC-SWR-015-02, ROC-SWR-015-03, ROC-SWR-015-04.",
+      "parent_atom_id": "ROC-SYS-015.A2",
+      "parent_requirement_id": "ROC-SYS-015",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-016-01.A1",
+        "ROC-SWR-016-02.A1",
+        "ROC-SWR-016-03.A1",
+        "ROC-SWR-016-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-016-01",
+        "ROC-SWR-016-02",
+        "ROC-SWR-016-03",
+        "ROC-SWR-016-04"
+      ],
+      "explanation": "ROC-SYS-016.A1 is covered by trace link(s) to ROC-SWR-016-01, ROC-SWR-016-02, ROC-SWR-016-03, ROC-SWR-016-04.",
+      "parent_atom_id": "ROC-SYS-016.A1",
+      "parent_requirement_id": "ROC-SYS-016",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-017-01.A1",
+        "ROC-SWR-017-01.A2",
+        "ROC-SWR-017-01.A3",
+        "ROC-SWR-017-02.A1",
+        "ROC-SWR-017-03.A1",
+        "ROC-SWR-017-03.A2",
+        "ROC-SWR-017-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-017-01",
+        "ROC-SWR-017-02",
+        "ROC-SWR-017-03",
+        "ROC-SWR-017-04"
+      ],
+      "explanation": "ROC-SYS-017.A1 is covered by trace link(s) to ROC-SWR-017-01, ROC-SWR-017-02, ROC-SWR-017-03, ROC-SWR-017-04.",
+      "parent_atom_id": "ROC-SYS-017.A1",
+      "parent_requirement_id": "ROC-SYS-017",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-018-01.A1",
+        "ROC-SWR-018-01.A2",
+        "ROC-SWR-018-02.A1",
+        "ROC-SWR-018-03.A1",
+        "ROC-SWR-018-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-018-01",
+        "ROC-SWR-018-02",
+        "ROC-SWR-018-03",
+        "ROC-SWR-018-04"
+      ],
+      "explanation": "ROC-SYS-018.A1 is covered by trace link(s) to ROC-SWR-018-01, ROC-SWR-018-02, ROC-SWR-018-03, ROC-SWR-018-04.",
+      "parent_atom_id": "ROC-SYS-018.A1",
+      "parent_requirement_id": "ROC-SYS-018",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-019-01.A1",
+        "ROC-SWR-019-02.A1",
+        "ROC-SWR-019-02.A2",
+        "ROC-SWR-019-02.A3",
+        "ROC-SWR-019-03.A1",
+        "ROC-SWR-019-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-019-01",
+        "ROC-SWR-019-02",
+        "ROC-SWR-019-03",
+        "ROC-SWR-019-04"
+      ],
+      "explanation": "ROC-SYS-019.A1 is covered by trace link(s) to ROC-SWR-019-01, ROC-SWR-019-02, ROC-SWR-019-03, ROC-SWR-019-04.",
+      "parent_atom_id": "ROC-SYS-019.A1",
+      "parent_requirement_id": "ROC-SYS-019",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-020-02.A1",
+        "ROC-SWR-020-02.A2",
+        "ROC-SWR-020-03.A1",
+        "ROC-SWR-020-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-020-01",
+        "ROC-SWR-020-02",
+        "ROC-SWR-020-03",
+        "ROC-SWR-020-04"
+      ],
+      "explanation": "ROC-SYS-020.A1 is covered by trace link(s) to ROC-SWR-020-01, ROC-SWR-020-02, ROC-SWR-020-03, ROC-SWR-020-04.",
+      "parent_atom_id": "ROC-SYS-020.A1",
+      "parent_requirement_id": "ROC-SYS-020",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-021-01.A1",
+        "ROC-SWR-021-02.A1",
+        "ROC-SWR-021-02.A2",
+        "ROC-SWR-021-03.A1",
+        "ROC-SWR-021-04.A1",
+        "ROC-SWR-021-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-021-01",
+        "ROC-SWR-021-02",
+        "ROC-SWR-021-03",
+        "ROC-SWR-021-04"
+      ],
+      "explanation": "ROC-SYS-021.A1 is covered by trace link(s) to ROC-SWR-021-01, ROC-SWR-021-02, ROC-SWR-021-03, ROC-SWR-021-04.",
+      "parent_atom_id": "ROC-SYS-021.A1",
+      "parent_requirement_id": "ROC-SYS-021",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-022-01.A1",
+        "ROC-SWR-022-02.A1",
+        "ROC-SWR-022-02.A2",
+        "ROC-SWR-022-03.A1",
+        "ROC-SWR-022-03.A2",
+        "ROC-SWR-022-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-022-01",
+        "ROC-SWR-022-02",
+        "ROC-SWR-022-03",
+        "ROC-SWR-022-04"
+      ],
+      "explanation": "ROC-SYS-022.A1 is covered by trace link(s) to ROC-SWR-022-01, ROC-SWR-022-02, ROC-SWR-022-03, ROC-SWR-022-04.",
+      "parent_atom_id": "ROC-SYS-022.A1",
+      "parent_requirement_id": "ROC-SYS-022",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-022-01.A1",
+        "ROC-SWR-022-02.A1",
+        "ROC-SWR-022-02.A2",
+        "ROC-SWR-022-03.A1",
+        "ROC-SWR-022-03.A2",
+        "ROC-SWR-022-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-022-01",
+        "ROC-SWR-022-02",
+        "ROC-SWR-022-03",
+        "ROC-SWR-022-04"
+      ],
+      "explanation": "ROC-SYS-022.A2 is covered by trace link(s) to ROC-SWR-022-01, ROC-SWR-022-02, ROC-SWR-022-03, ROC-SWR-022-04.",
+      "parent_atom_id": "ROC-SYS-022.A2",
+      "parent_requirement_id": "ROC-SYS-022",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-023-01.A1",
+        "ROC-SWR-023-02.A1",
+        "ROC-SWR-023-02.A2",
+        "ROC-SWR-023-03.A1",
+        "ROC-SWR-023-03.A2",
+        "ROC-SWR-023-04.A1",
+        "ROC-SWR-023-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-023-01",
+        "ROC-SWR-023-02",
+        "ROC-SWR-023-03",
+        "ROC-SWR-023-04"
+      ],
+      "explanation": "ROC-SYS-023.A1 is covered by trace link(s) to ROC-SWR-023-01, ROC-SWR-023-02, ROC-SWR-023-03, ROC-SWR-023-04.",
+      "parent_atom_id": "ROC-SYS-023.A1",
+      "parent_requirement_id": "ROC-SYS-023",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-023-01.A1",
+        "ROC-SWR-023-02.A1",
+        "ROC-SWR-023-02.A2",
+        "ROC-SWR-023-03.A1",
+        "ROC-SWR-023-03.A2",
+        "ROC-SWR-023-04.A1",
+        "ROC-SWR-023-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-023-01",
+        "ROC-SWR-023-02",
+        "ROC-SWR-023-03",
+        "ROC-SWR-023-04"
+      ],
+      "explanation": "ROC-SYS-023.A2 is covered by trace link(s) to ROC-SWR-023-01, ROC-SWR-023-02, ROC-SWR-023-03, ROC-SWR-023-04.",
+      "parent_atom_id": "ROC-SYS-023.A2",
+      "parent_requirement_id": "ROC-SYS-023",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-024-01.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-024-01",
+        "ROC-SWR-024-02",
+        "ROC-SWR-024-03",
+        "ROC-SWR-024-04"
+      ],
+      "explanation": "Child limit equals parent limit.",
+      "parent_atom_id": "ROC-SYS-024.A1",
+      "parent_requirement_id": "ROC-SYS-024",
+      "recommended_action": null,
+      "rule_id": "R-CONSTRAINT-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-025-01.A1",
+        "ROC-SWR-025-02.A1",
+        "ROC-SWR-025-03.A1",
+        "ROC-SWR-025-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-025-01",
+        "ROC-SWR-025-02",
+        "ROC-SWR-025-03",
+        "ROC-SWR-025-04"
+      ],
+      "explanation": "ROC-SYS-025.A1 is covered by trace link(s) to ROC-SWR-025-01, ROC-SWR-025-02, ROC-SWR-025-03, ROC-SWR-025-04.",
+      "parent_atom_id": "ROC-SYS-025.A1",
+      "parent_requirement_id": "ROC-SYS-025",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-026-01.A1",
+        "ROC-SWR-026-02.A1",
+        "ROC-SWR-026-02.A2",
+        "ROC-SWR-026-03.A1",
+        "ROC-SWR-026-04.A1",
+        "ROC-SWR-026-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-026-01",
+        "ROC-SWR-026-02",
+        "ROC-SWR-026-03",
+        "ROC-SWR-026-04"
+      ],
+      "explanation": "ROC-SYS-026.A1 is covered by trace link(s) to ROC-SWR-026-01, ROC-SWR-026-02, ROC-SWR-026-03, ROC-SWR-026-04.",
+      "parent_atom_id": "ROC-SYS-026.A1",
+      "parent_requirement_id": "ROC-SYS-026",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-027-01.A1",
+        "ROC-SWR-027-02.A1",
+        "ROC-SWR-027-02.A2",
+        "ROC-SWR-027-03.A1",
+        "ROC-SWR-027-04.A1",
+        "ROC-SWR-027-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-027-01",
+        "ROC-SWR-027-02",
+        "ROC-SWR-027-03",
+        "ROC-SWR-027-04"
+      ],
+      "explanation": "ROC-SYS-027.A1 is covered by trace link(s) to ROC-SWR-027-01, ROC-SWR-027-02, ROC-SWR-027-03, ROC-SWR-027-04.",
+      "parent_atom_id": "ROC-SYS-027.A1",
+      "parent_requirement_id": "ROC-SYS-027",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-027-01.A1",
+        "ROC-SWR-027-02.A1",
+        "ROC-SWR-027-02.A2",
+        "ROC-SWR-027-03.A1",
+        "ROC-SWR-027-04.A1",
+        "ROC-SWR-027-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-027-01",
+        "ROC-SWR-027-02",
+        "ROC-SWR-027-03",
+        "ROC-SWR-027-04"
+      ],
+      "explanation": "ROC-SYS-027.A2 has a numeric constraint but no linked child constraint.",
+      "parent_atom_id": "ROC-SYS-027.A2",
+      "parent_requirement_id": "ROC-SYS-027",
+      "recommended_action": "Add missing child atoms or review rationale.",
+      "rule_id": "R-CONSTRAINT-002",
+      "severity": "medium",
+      "status": "partial"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-028-01.A1",
+        "ROC-SWR-028-01.A2",
+        "ROC-SWR-028-03.A1",
+        "ROC-SWR-028-03.A2",
+        "ROC-SWR-028-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-028-01",
+        "ROC-SWR-028-02",
+        "ROC-SWR-028-03",
+        "ROC-SWR-028-04"
+      ],
+      "explanation": "ROC-SYS-028.A1 is covered by trace link(s) to ROC-SWR-028-01, ROC-SWR-028-02, ROC-SWR-028-03, ROC-SWR-028-04.",
+      "parent_atom_id": "ROC-SYS-028.A1",
+      "parent_requirement_id": "ROC-SYS-028",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-028-01.A1",
+        "ROC-SWR-028-01.A2",
+        "ROC-SWR-028-03.A1",
+        "ROC-SWR-028-03.A2",
+        "ROC-SWR-028-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-028-01",
+        "ROC-SWR-028-02",
+        "ROC-SWR-028-03",
+        "ROC-SWR-028-04"
+      ],
+      "explanation": "ROC-SYS-028.A2 is covered by trace link(s) to ROC-SWR-028-01, ROC-SWR-028-02, ROC-SWR-028-03, ROC-SWR-028-04.",
+      "parent_atom_id": "ROC-SYS-028.A2",
+      "parent_requirement_id": "ROC-SYS-028",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-029-01.A1",
+        "ROC-SWR-029-02.A1",
+        "ROC-SWR-029-02.A2",
+        "ROC-SWR-029-03.A1",
+        "ROC-SWR-029-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-029-01",
+        "ROC-SWR-029-02",
+        "ROC-SWR-029-03",
+        "ROC-SWR-029-04"
+      ],
+      "explanation": "ROC-SYS-029.A1 is covered by trace link(s) to ROC-SWR-029-01, ROC-SWR-029-02, ROC-SWR-029-03, ROC-SWR-029-04.",
+      "parent_atom_id": "ROC-SYS-029.A1",
+      "parent_requirement_id": "ROC-SYS-029",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-030-01.A1",
+        "ROC-SWR-030-01.A2",
+        "ROC-SWR-030-02.A1",
+        "ROC-SWR-030-03.A1",
+        "ROC-SWR-030-04.A1",
+        "ROC-SWR-030-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-030-01",
+        "ROC-SWR-030-02",
+        "ROC-SWR-030-03",
+        "ROC-SWR-030-04"
+      ],
+      "explanation": "ROC-SYS-030.A1 is covered by trace link(s) to ROC-SWR-030-01, ROC-SWR-030-02, ROC-SWR-030-03, ROC-SWR-030-04.",
+      "parent_atom_id": "ROC-SYS-030.A1",
+      "parent_requirement_id": "ROC-SYS-030",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-030-01.A1",
+        "ROC-SWR-030-01.A2",
+        "ROC-SWR-030-02.A1",
+        "ROC-SWR-030-03.A1",
+        "ROC-SWR-030-04.A1",
+        "ROC-SWR-030-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-030-01",
+        "ROC-SWR-030-02",
+        "ROC-SWR-030-03",
+        "ROC-SWR-030-04"
+      ],
+      "explanation": "ROC-SYS-030.A2 is covered by trace link(s) to ROC-SWR-030-01, ROC-SWR-030-02, ROC-SWR-030-03, ROC-SWR-030-04.",
+      "parent_atom_id": "ROC-SYS-030.A2",
+      "parent_requirement_id": "ROC-SYS-030",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-031-01.A1",
+        "ROC-SWR-031-02.A2",
+        "ROC-SWR-031-03.A1",
+        "ROC-SWR-031-04.A1",
+        "ROC-SWR-031-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-031-01",
+        "ROC-SWR-031-02",
+        "ROC-SWR-031-03",
+        "ROC-SWR-031-04"
+      ],
+      "explanation": "ROC-SYS-031.A1 is covered by trace link(s) to ROC-SWR-031-01, ROC-SWR-031-02, ROC-SWR-031-03, ROC-SWR-031-04.",
+      "parent_atom_id": "ROC-SYS-031.A1",
+      "parent_requirement_id": "ROC-SYS-031",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-032-01.A1",
+        "ROC-SWR-032-01.A2",
+        "ROC-SWR-032-02.A1",
+        "ROC-SWR-032-03.A1",
+        "ROC-SWR-032-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-032-01",
+        "ROC-SWR-032-02",
+        "ROC-SWR-032-03",
+        "ROC-SWR-032-04"
+      ],
+      "explanation": "ROC-SYS-032.A1 is covered by trace link(s) to ROC-SWR-032-01, ROC-SWR-032-02, ROC-SWR-032-03, ROC-SWR-032-04.",
+      "parent_atom_id": "ROC-SYS-032.A1",
+      "parent_requirement_id": "ROC-SYS-032",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-032-03.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-032-01",
+        "ROC-SWR-032-02",
+        "ROC-SWR-032-03",
+        "ROC-SWR-032-04"
+      ],
+      "explanation": "Child limit equals parent limit.",
+      "parent_atom_id": "ROC-SYS-032.A2",
+      "parent_requirement_id": "ROC-SYS-032",
+      "recommended_action": null,
+      "rule_id": "R-CONSTRAINT-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-033-01.A1",
+        "ROC-SWR-033-01.A2",
+        "ROC-SWR-033-02.A1",
+        "ROC-SWR-033-02.A2",
+        "ROC-SWR-033-03.A1",
+        "ROC-SWR-033-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-033-01",
+        "ROC-SWR-033-02",
+        "ROC-SWR-033-03",
+        "ROC-SWR-033-04"
+      ],
+      "explanation": "ROC-SYS-033.A1 is covered by trace link(s) to ROC-SWR-033-01, ROC-SWR-033-02, ROC-SWR-033-03, ROC-SWR-033-04.",
+      "parent_atom_id": "ROC-SYS-033.A1",
+      "parent_requirement_id": "ROC-SYS-033",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-034-01.A1",
+        "ROC-SWR-034-02.A1",
+        "ROC-SWR-034-03.A1",
+        "ROC-SWR-034-04.A1",
+        "ROC-SWR-034-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-034-01",
+        "ROC-SWR-034-02",
+        "ROC-SWR-034-03",
+        "ROC-SWR-034-04"
+      ],
+      "explanation": "ROC-SYS-034.A1 is covered by trace link(s) to ROC-SWR-034-01, ROC-SWR-034-02, ROC-SWR-034-03, ROC-SWR-034-04.",
+      "parent_atom_id": "ROC-SYS-034.A1",
+      "parent_requirement_id": "ROC-SYS-034",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-035-01.A1",
+        "ROC-SWR-035-01.A2",
+        "ROC-SWR-035-02.A1",
+        "ROC-SWR-035-02.A2",
+        "ROC-SWR-035-03.A1",
+        "ROC-SWR-035-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-035-01",
+        "ROC-SWR-035-02",
+        "ROC-SWR-035-03",
+        "ROC-SWR-035-04"
+      ],
+      "explanation": "ROC-SYS-035.A1 is covered by trace link(s) to ROC-SWR-035-01, ROC-SWR-035-02, ROC-SWR-035-03, ROC-SWR-035-04.",
+      "parent_atom_id": "ROC-SYS-035.A1",
+      "parent_requirement_id": "ROC-SYS-035",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-035-01.A1",
+        "ROC-SWR-035-01.A2",
+        "ROC-SWR-035-02.A1",
+        "ROC-SWR-035-02.A2",
+        "ROC-SWR-035-03.A1",
+        "ROC-SWR-035-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-035-01",
+        "ROC-SWR-035-02",
+        "ROC-SWR-035-03",
+        "ROC-SWR-035-04"
+      ],
+      "explanation": "ROC-SYS-035.A2 is covered by trace link(s) to ROC-SWR-035-01, ROC-SWR-035-02, ROC-SWR-035-03, ROC-SWR-035-04.",
+      "parent_atom_id": "ROC-SYS-035.A2",
+      "parent_requirement_id": "ROC-SYS-035",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-036-01.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-036-01",
+        "ROC-SWR-036-02",
+        "ROC-SWR-036-03",
+        "ROC-SWR-036-04"
+      ],
+      "explanation": "ROC-SYS-036.A1 is covered by trace link(s) to ROC-SWR-036-01, ROC-SWR-036-02, ROC-SWR-036-03, ROC-SWR-036-04.",
+      "parent_atom_id": "ROC-SYS-036.A1",
+      "parent_requirement_id": "ROC-SYS-036",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-037-01.A1",
+        "ROC-SWR-037-02.A1",
+        "ROC-SWR-037-03.A1",
+        "ROC-SWR-037-04.A1",
+        "ROC-SWR-037-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-037-01",
+        "ROC-SWR-037-02",
+        "ROC-SWR-037-03",
+        "ROC-SWR-037-04"
+      ],
+      "explanation": "ROC-SYS-037.A1 is covered by trace link(s) to ROC-SWR-037-01, ROC-SWR-037-02, ROC-SWR-037-03, ROC-SWR-037-04.",
+      "parent_atom_id": "ROC-SYS-037.A1",
+      "parent_requirement_id": "ROC-SYS-037",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-037-01.A1",
+        "ROC-SWR-037-02.A1",
+        "ROC-SWR-037-03.A1",
+        "ROC-SWR-037-04.A1",
+        "ROC-SWR-037-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-037-01",
+        "ROC-SWR-037-02",
+        "ROC-SWR-037-03",
+        "ROC-SWR-037-04"
+      ],
+      "explanation": "ROC-SYS-037.A2 is covered by trace link(s) to ROC-SWR-037-01, ROC-SWR-037-02, ROC-SWR-037-03, ROC-SWR-037-04.",
+      "parent_atom_id": "ROC-SYS-037.A2",
+      "parent_requirement_id": "ROC-SYS-037",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-038-01.A1",
+        "ROC-SWR-038-02.A1",
+        "ROC-SWR-038-02.A2",
+        "ROC-SWR-038-03.A1",
+        "ROC-SWR-038-03.A2",
+        "ROC-SWR-038-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-038-01",
+        "ROC-SWR-038-02",
+        "ROC-SWR-038-03",
+        "ROC-SWR-038-04"
+      ],
+      "explanation": "ROC-SYS-038.A1 is covered by trace link(s) to ROC-SWR-038-01, ROC-SWR-038-02, ROC-SWR-038-03, ROC-SWR-038-04.",
+      "parent_atom_id": "ROC-SYS-038.A1",
+      "parent_requirement_id": "ROC-SYS-038",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-039-01.A1",
+        "ROC-SWR-039-01.A2",
+        "ROC-SWR-039-02.A1",
+        "ROC-SWR-039-03.A1",
+        "ROC-SWR-039-03.A2",
+        "ROC-SWR-039-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-039-01",
+        "ROC-SWR-039-02",
+        "ROC-SWR-039-03",
+        "ROC-SWR-039-04"
+      ],
+      "explanation": "ROC-SYS-039.A1 is covered by trace link(s) to ROC-SWR-039-01, ROC-SWR-039-02, ROC-SWR-039-03, ROC-SWR-039-04.",
+      "parent_atom_id": "ROC-SYS-039.A1",
+      "parent_requirement_id": "ROC-SYS-039",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-040-02.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-040-01",
+        "ROC-SWR-040-02",
+        "ROC-SWR-040-03",
+        "ROC-SWR-040-04"
+      ],
+      "explanation": "Child limit equals parent limit.",
+      "parent_atom_id": "ROC-SYS-040.A1",
+      "parent_requirement_id": "ROC-SYS-040",
+      "recommended_action": null,
+      "rule_id": "R-CONSTRAINT-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-041-01.A1",
+        "ROC-SWR-041-02.A1",
+        "ROC-SWR-041-02.A2",
+        "ROC-SWR-041-04.A1",
+        "ROC-SWR-041-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-041-01",
+        "ROC-SWR-041-02",
+        "ROC-SWR-041-03",
+        "ROC-SWR-041-04"
+      ],
+      "explanation": "ROC-SYS-041.A1 is covered by trace link(s) to ROC-SWR-041-01, ROC-SWR-041-02, ROC-SWR-041-03, ROC-SWR-041-04.",
+      "parent_atom_id": "ROC-SYS-041.A1",
+      "parent_requirement_id": "ROC-SYS-041",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-041-01.A1",
+        "ROC-SWR-041-02.A1",
+        "ROC-SWR-041-02.A2",
+        "ROC-SWR-041-04.A1",
+        "ROC-SWR-041-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-041-01",
+        "ROC-SWR-041-02",
+        "ROC-SWR-041-03",
+        "ROC-SWR-041-04"
+      ],
+      "explanation": "ROC-SYS-041.A2 is covered by trace link(s) to ROC-SWR-041-01, ROC-SWR-041-02, ROC-SWR-041-03, ROC-SWR-041-04.",
+      "parent_atom_id": "ROC-SYS-041.A2",
+      "parent_requirement_id": "ROC-SYS-041",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-042-01.A1",
+        "ROC-SWR-042-01.A2",
+        "ROC-SWR-042-02.A1",
+        "ROC-SWR-042-03.A1",
+        "ROC-SWR-042-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-042-01",
+        "ROC-SWR-042-02",
+        "ROC-SWR-042-03",
+        "ROC-SWR-042-04"
+      ],
+      "explanation": "ROC-SYS-042.A1 is covered by trace link(s) to ROC-SWR-042-01, ROC-SWR-042-02, ROC-SWR-042-03, ROC-SWR-042-04.",
+      "parent_atom_id": "ROC-SYS-042.A1",
+      "parent_requirement_id": "ROC-SYS-042",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-043-01.A1",
+        "ROC-SWR-043-02.A1",
+        "ROC-SWR-043-02.A2",
+        "ROC-SWR-043-03.A1",
+        "ROC-SWR-043-04.A1",
+        "ROC-SWR-043-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-043-01",
+        "ROC-SWR-043-02",
+        "ROC-SWR-043-03",
+        "ROC-SWR-043-04"
+      ],
+      "explanation": "ROC-SYS-043.A1 is covered by trace link(s) to ROC-SWR-043-01, ROC-SWR-043-02, ROC-SWR-043-03, ROC-SWR-043-04.",
+      "parent_atom_id": "ROC-SYS-043.A1",
+      "parent_requirement_id": "ROC-SYS-043",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-043-01.A1",
+        "ROC-SWR-043-02.A1",
+        "ROC-SWR-043-02.A2",
+        "ROC-SWR-043-03.A1",
+        "ROC-SWR-043-04.A1",
+        "ROC-SWR-043-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-043-01",
+        "ROC-SWR-043-02",
+        "ROC-SWR-043-03",
+        "ROC-SWR-043-04"
+      ],
+      "explanation": "ROC-SYS-043.A2 is covered by trace link(s) to ROC-SWR-043-01, ROC-SWR-043-02, ROC-SWR-043-03, ROC-SWR-043-04.",
+      "parent_atom_id": "ROC-SYS-043.A2",
+      "parent_requirement_id": "ROC-SYS-043",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-044-01.A1",
+        "ROC-SWR-044-01.A2",
+        "ROC-SWR-044-02.A1",
+        "ROC-SWR-044-03.A1",
+        "ROC-SWR-044-04.A1",
+        "ROC-SWR-044-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-044-01",
+        "ROC-SWR-044-02",
+        "ROC-SWR-044-03",
+        "ROC-SWR-044-04"
+      ],
+      "explanation": "ROC-SYS-044.A1 is covered by trace link(s) to ROC-SWR-044-01, ROC-SWR-044-02, ROC-SWR-044-03, ROC-SWR-044-04.",
+      "parent_atom_id": "ROC-SYS-044.A1",
+      "parent_requirement_id": "ROC-SYS-044",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-045-01.A2",
+        "ROC-SWR-045-02.A1",
+        "ROC-SWR-045-03.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-045-01",
+        "ROC-SWR-045-02",
+        "ROC-SWR-045-03",
+        "ROC-SWR-045-04"
+      ],
+      "explanation": "ROC-SYS-045.A1 is covered by trace link(s) to ROC-SWR-045-01, ROC-SWR-045-02, ROC-SWR-045-03, ROC-SWR-045-04.",
+      "parent_atom_id": "ROC-SYS-045.A1",
+      "parent_requirement_id": "ROC-SYS-045",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-046-01.A1",
+        "ROC-SWR-046-02.A1",
+        "ROC-SWR-046-03.A1",
+        "ROC-SWR-046-03.A2",
+        "ROC-SWR-046-04.A1"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-046-01",
+        "ROC-SWR-046-02",
+        "ROC-SWR-046-03",
+        "ROC-SWR-046-04"
+      ],
+      "explanation": "ROC-SYS-046.A1 is covered by trace link(s) to ROC-SWR-046-01, ROC-SWR-046-02, ROC-SWR-046-03, ROC-SWR-046-04.",
+      "parent_atom_id": "ROC-SYS-046.A1",
+      "parent_requirement_id": "ROC-SYS-046",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-047-01.A1",
+        "ROC-SWR-047-02.A1",
+        "ROC-SWR-047-03.A1",
+        "ROC-SWR-047-04.A1",
+        "ROC-SWR-047-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-047-01",
+        "ROC-SWR-047-02",
+        "ROC-SWR-047-03",
+        "ROC-SWR-047-04"
+      ],
+      "explanation": "ROC-SYS-047.A1 is covered by trace link(s) to ROC-SWR-047-01, ROC-SWR-047-02, ROC-SWR-047-03, ROC-SWR-047-04.",
+      "parent_atom_id": "ROC-SYS-047.A1",
+      "parent_requirement_id": "ROC-SYS-047",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-048-01.A1",
+        "ROC-SWR-048-01.A2",
+        "ROC-SWR-048-02.A1",
+        "ROC-SWR-048-02.A2",
+        "ROC-SWR-048-03.A1",
+        "ROC-SWR-048-03.A3",
+        "ROC-SWR-048-04.A1",
+        "ROC-SWR-048-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-048-01",
+        "ROC-SWR-048-02",
+        "ROC-SWR-048-03",
+        "ROC-SWR-048-04"
+      ],
+      "explanation": "ROC-SYS-048.A1 is covered by trace link(s) to ROC-SWR-048-01, ROC-SWR-048-02, ROC-SWR-048-03, ROC-SWR-048-04.",
+      "parent_atom_id": "ROC-SYS-048.A1",
+      "parent_requirement_id": "ROC-SYS-048",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-048-01.A1",
+        "ROC-SWR-048-01.A2",
+        "ROC-SWR-048-02.A1",
+        "ROC-SWR-048-02.A2",
+        "ROC-SWR-048-03.A1",
+        "ROC-SWR-048-03.A3",
+        "ROC-SWR-048-04.A1",
+        "ROC-SWR-048-04.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-048-01",
+        "ROC-SWR-048-02",
+        "ROC-SWR-048-03",
+        "ROC-SWR-048-04"
+      ],
+      "explanation": "ROC-SYS-048.A2 is covered by trace link(s) to ROC-SWR-048-01, ROC-SWR-048-02, ROC-SWR-048-03, ROC-SWR-048-04.",
+      "parent_atom_id": "ROC-SYS-048.A2",
+      "parent_requirement_id": "ROC-SYS-048",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-049-01.A1",
+        "ROC-SWR-049-01.A2",
+        "ROC-SWR-049-02.A2",
+        "ROC-SWR-049-03.A1",
+        "ROC-SWR-049-03.A2",
+        "ROC-SWR-049-04.A1",
+        "ROC-SWR-049-05.A1",
+        "ROC-SWR-049-05.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-049-01",
+        "ROC-SWR-049-02",
+        "ROC-SWR-049-03",
+        "ROC-SWR-049-04",
+        "ROC-SWR-049-05"
+      ],
+      "explanation": "ROC-SYS-049.A1 is covered by trace link(s) to ROC-SWR-049-01, ROC-SWR-049-02, ROC-SWR-049-03, ROC-SWR-049-04, ROC-SWR-049-05.",
+      "parent_atom_id": "ROC-SYS-049.A1",
+      "parent_requirement_id": "ROC-SYS-049",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-049-01.A1",
+        "ROC-SWR-049-01.A2",
+        "ROC-SWR-049-02.A2",
+        "ROC-SWR-049-03.A1",
+        "ROC-SWR-049-03.A2",
+        "ROC-SWR-049-04.A1",
+        "ROC-SWR-049-05.A1",
+        "ROC-SWR-049-05.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-049-01",
+        "ROC-SWR-049-02",
+        "ROC-SWR-049-03",
+        "ROC-SWR-049-04",
+        "ROC-SWR-049-05"
+      ],
+      "explanation": "ROC-SYS-049.A2 is covered by trace link(s) to ROC-SWR-049-01, ROC-SWR-049-02, ROC-SWR-049-03, ROC-SWR-049-04, ROC-SWR-049-05.",
+      "parent_atom_id": "ROC-SYS-049.A2",
+      "parent_requirement_id": "ROC-SYS-049",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-050-01.A1",
+        "ROC-SWR-050-01.A2",
+        "ROC-SWR-050-02.A1",
+        "ROC-SWR-050-02.A2",
+        "ROC-SWR-050-03.A1",
+        "ROC-SWR-050-05.A1",
+        "ROC-SWR-050-05.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-050-01",
+        "ROC-SWR-050-02",
+        "ROC-SWR-050-03",
+        "ROC-SWR-050-04",
+        "ROC-SWR-050-05"
+      ],
+      "explanation": "ROC-SYS-050.A1 is covered by trace link(s) to ROC-SWR-050-01, ROC-SWR-050-02, ROC-SWR-050-03, ROC-SWR-050-04, ROC-SWR-050-05.",
+      "parent_atom_id": "ROC-SYS-050.A1",
+      "parent_requirement_id": "ROC-SYS-050",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "ROC-SWR-050-01.A1",
+        "ROC-SWR-050-01.A2",
+        "ROC-SWR-050-02.A1",
+        "ROC-SWR-050-02.A2",
+        "ROC-SWR-050-03.A1",
+        "ROC-SWR-050-05.A1",
+        "ROC-SWR-050-05.A2"
+      ],
+      "child_requirement_ids": [
+        "ROC-SWR-050-01",
+        "ROC-SWR-050-02",
+        "ROC-SWR-050-03",
+        "ROC-SWR-050-04",
+        "ROC-SWR-050-05"
+      ],
+      "explanation": "ROC-SYS-050.A2 is covered by trace link(s) to ROC-SWR-050-01, ROC-SWR-050-02, ROC-SWR-050-03, ROC-SWR-050-04, ROC-SWR-050-05.",
+      "parent_atom_id": "ROC-SYS-050.A2",
+      "parent_requirement_id": "ROC-SYS-050",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "SW-REQ-010.A1"
+      ],
+      "child_requirement_ids": [
+        "SW-REQ-010"
+      ],
+      "explanation": "Child limit 5 ms is stricter than parent 10 ms.",
+      "parent_atom_id": "SYS-REQ-001.A1",
+      "parent_requirement_id": "SYS-REQ-001",
+      "recommended_action": null,
+      "rule_id": "R-CONSTRAINT-001",
+      "severity": "low",
+      "status": "stronger_than_parent"
+    },
+    {
+      "child_atom_ids": [
+        "SW-REQ-011.A1"
+      ],
+      "child_requirement_ids": [
+        "SW-REQ-011"
+      ],
+      "explanation": "SYS-REQ-001.A2 is covered by trace link(s) to SW-REQ-011.",
+      "parent_atom_id": "SYS-REQ-001.A2",
+      "parent_requirement_id": "SYS-REQ-001",
+      "recommended_action": null,
+      "rule_id": "R-ATOM-001",
+      "severity": "info",
+      "status": "full"
+    },
+    {
+      "child_atom_ids": [
+        "SW-REQ-012.A1"
+      ],
+      "child_requirement_ids": [
+        "SW-REQ-012"
+      ],
+      "explanation": "SYS-REQ-001.A3 covers safety integrity only through rationale; review evidence.",
+      "parent_atom_id": "SYS-REQ-001.A3",
+      "parent_requirement_id": "SYS-REQ-001",
+      "recommended_action": "Add missing child atoms or review rationale.",
+      "rule_id": "R-SAFETY-001",
+      "severity": "medium",
+      "status": "partial"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+terms:
+  braking_system:
+    type: system
+    aliases:
+      - brake system
+  brake_input_swc:
+    type: software_component
+    aliases:
+      - Brake Input SWC
+  vehicle_motion_controller:
+    type: system_element
+    aliases:
+      - VMC
+      - motion controller
+      - Vehicle Motion Controller
+  brake_request:
+    type: signal
+    aliases:
+      - braking request
+
